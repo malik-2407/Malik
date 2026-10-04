@@ -1,0 +1,6 @@
+{
+  "name": "VALORANT Weapon Skin Inspector",
+  "description": "Interactive weapon skin preview gallery and inspector with weapon category dropdown filtering, chroma swatches, audio feedback, and custom loadout builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
